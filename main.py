@@ -5,8 +5,7 @@ SysPet - Sistema de Gestão de PetShop
 Projeto: Programação Estruturada em Python - FASE 1
 Disciplina: Programação Estruturada
 Instituição: FACISA
-Grupo: [NOMES DOS INTEGRANTES]
-Data: Junho 2026
+Grupo: José Ivan Abrantes Virgínio
 
 Arquivo principal - Menu do sistema e orquestração dos módulos.
 """
